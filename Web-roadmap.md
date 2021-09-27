@@ -1,7 +1,7 @@
 # Web-Straßenkarte
 
 #### IDE 
-[VS Code](https://code.visualstudio.com/)[mit mit vim-Erweiterung](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+[VS Code](https://code.visualstudio.com/) mit [vim-Erweiterung](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 [Vim](https://www.vim.org/)
 
 #### YouTube 
